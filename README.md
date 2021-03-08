@@ -1,2 +1,2 @@
-# Trex-game
-Class 19 
+# trex-game
+trex game in p5 
